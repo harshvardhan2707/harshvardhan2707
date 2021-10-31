@@ -12,7 +12,12 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/harshvardhanad2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harshvardhanad2" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/harshvardhan-aditya-711a46183" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshvardhan-aditya-711a46183" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16817142" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16817142" height="30" width="40" /></a>
+<a href="https://kaggle.com/harshvardhanaditya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="harshvardhanaditya" height="30" width="40" /></a>
+<a href="https://instagram.com/hrshvrdhn__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hrshvrdhn__" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/harshvardhan27" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="harshvardhan27" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/harshvardhan27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="harshvardhan27" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
